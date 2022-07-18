@@ -39,7 +39,7 @@ python download_d4rl_datasets.py
 
 ChibiT can be downloaded with gdown as follows:
 ```bash
-gdown --id $ID #we will add it soon!
+gdown --id 1-ziehUyca2eyu5sQRux_q8BkKCnHqOn1
 ```
 
 ### Example usage
